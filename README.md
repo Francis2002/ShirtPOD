@@ -11,10 +11,12 @@ Investigate shipping, payments and requests to print
 
 User chose logo size
 
-User chose logo position
+User chose logo position and rotation
 
 Invert back logo
 
 User chose front or/and back logo
+
+3D human model with weight, hight and body type
 
 
