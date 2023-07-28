@@ -5,6 +5,9 @@
 https://magenta-dodol-948567.netlify.app
 
 ## TODO:
+
+Unactivate activeWditorTab
+
 Change shirt model (investigate 'baked')
 
 Make database with simulated AI
