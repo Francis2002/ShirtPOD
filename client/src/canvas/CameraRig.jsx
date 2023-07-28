@@ -18,8 +18,8 @@ const CameraRig = ({children}) => {
     const isBreakpoint = window.innerWidth <= 1260;
     const isMobile = window.innerWidth <= 600;
 
-    const rotationTargetX = state.pointer.x
-    const rotationTargetY = state.pointer.y / 2
+    const rotationTargetX = state.pointer.x / 2
+    const rotationTargetY = state.pointer.y / 4
 
     console.log(snap.intro, isBreakpoint, isMobile)
 
